@@ -8,7 +8,7 @@
 
   ## Table Structure :
 The swiggy table contains the following 11 columns:
- restaurant_name : Name of the restaurant
+  restaurant_name : Name of the restaurant
    city          :  City where the restaurant is located
   veg_nonveg     : Indicates whether the restaurant offers vegetarian, non-vegetarian, or both 
                      types of food

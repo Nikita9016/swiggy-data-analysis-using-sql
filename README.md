@@ -23,7 +23,7 @@ The swiggy table contains the following 11 columns:
 
  ### Queries :
  Q1  Top City with the Highest Number of Restaurants?
- Q2  Number of Restaurants with "Pizza" in their Name
+  Q2  Number of Restaurants with "Pizza" in their Name
  Q3  Most Common Cuisine among the Restaurants
  Q4  Average Rating of Restaurants in Each City
  Q5  Restaurants with an Average Cost Higher than the Total Average Cost
